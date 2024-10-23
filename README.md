@@ -1,8 +1,8 @@
 ---
-description: Instructions on how to boot up and connect to the ROV.
+description: Instructions on how to boot up and connect to the ROV from the surface PC.
 ---
 
-# Initializing the ROV
+# Initializing The ROV
 
 
 
