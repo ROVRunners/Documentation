@@ -3,7 +3,6 @@
 ## Hardware
 
 * [Initializing the ROV](README.md)
-* [Testing...](hardware/testing....md)
 
 ## Software
 
