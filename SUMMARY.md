@@ -1,10 +1,16 @@
 # Table of contents
 
-## Hardware
+* [Welcome](README.md)
 
-* [Initializing The ROV](README.md)
-* [Connecting to the ROV](hardware/connecting-to-the-rov.md)
+## Usage
+
+* [Page 1](usage/page-1.md)
+* [Connecting to the ROV](usage/connecting-to-the-rov.md)
 
 ## Software
 
 * [Code Formatting Standards](software/code-formatting-standards.md)
+
+## Hardware
+
+* [Page](hardware/page.md)
