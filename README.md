@@ -26,5 +26,7 @@ description: Instructions on how to boot up and connect to the ROV.
       1. ssh rovrunners@192.168.2.2
          1. If it fails, repeat until it works, possibly closing and reopening the terminal.
       2. ./start.sh
-   3. Open VSCode on the PC
+   3. Open VSCode on the PC.
+   4. Navigate to the 'main.py' file in the automatically opened repository.
+   5. Press the run arrow at the top of the screen.
 
