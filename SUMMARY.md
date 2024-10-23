@@ -2,7 +2,7 @@
 
 ## Hardware
 
-* [Initializing the ROV](README.md)
+* [Initializing The ROV](README.md)
 
 ## Software
 
